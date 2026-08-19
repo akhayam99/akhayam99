@@ -12,6 +12,12 @@ on:
         type: boolean
         default: false
 
+# Two runs at once (a manual dispatch landing on the scheduled one) both render,
+# then race on the push and one loses. Serialize instead.
+concurrency:
+  group: profile-cards
+  cancel-in-progress: false
+
 jobs:
   cards:
     runs-on: ubuntu-latest
@@ -114,4 +120,9 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/stats.svg profile/languages.svg
           git commit -m "Update profile cards" || exit 0
-          git push
+          # The render takes minutes; main can move under us in that window.
+          for attempt in 1 2 3; do
+            git push && exit 0
+            git pull --rebase origin main
+          done
+          exit 1
