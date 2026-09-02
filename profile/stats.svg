@@ -15,7 +15,7 @@
        nobody. Delete this comment if you would rather not be counted; the card is
        identical without it, and I will only be a little sad about it :( -->
   <title id="titleId">Amin&#39;s GitHub stats</title>
-  <desc id="descId">Total Commits: 2653, Commits (2026): 2209, Total PRs: 1871, PR Merge Rate: 92.5%, PRs Reviewed: 832, Total Issues: 314, Total Stars Earned: 88. Contributions: 5432</desc>
+  <desc id="descId">Total Commits: 2688, Commits (2026): 2244, Total PRs: 1906, PR Merge Rate: 92.7%, PRs Reviewed: 836, Total Issues: 314, Total Stars Earned: 88. Contributions: 5489</desc>
   <style>
     :root {
       --bg: #0d1117;
@@ -42,19 +42,19 @@
       <g class="col" transform="translate(0.0, 0)">
         <svg class="icon" viewBox="0 0 16 16" width="13" height="13" x="0" y="0.95"><path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/></svg>
         <text class="line" x="23.4" y="12"><tspan class="dim">Total Commits </tspan><tspan class="dots">·········································</tspan></text>
-        <text class="line num" x="483.6" y="12" text-anchor="end">2653</text>
+        <text class="line num" x="483.6" y="12" text-anchor="end">2688</text>
         <svg class="icon" viewBox="0 0 16 16" width="13" height="13" x="0" y="21.95"><path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/></svg>
         <text class="line" x="23.4" y="33"><tspan class="dim">Commits (2026) </tspan><tspan class="dots">········································</tspan></text>
-        <text class="line num" x="483.6" y="33" text-anchor="end">2209</text>
+        <text class="line num" x="483.6" y="33" text-anchor="end">2244</text>
         <svg class="icon" viewBox="0 0 16 16" width="13" height="13" x="0" y="42.95"><path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/></svg>
         <text class="line" x="23.4" y="54"><tspan class="dim">Total PRs </tspan><tspan class="dots">·············································</tspan></text>
-        <text class="line num" x="483.6" y="54" text-anchor="end">1871</text>
+        <text class="line num" x="483.6" y="54" text-anchor="end">1906</text>
         <svg class="icon" viewBox="0 0 16 16" width="13" height="13" x="0" y="63.95"><path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/></svg>
         <text class="line" x="23.4" y="75"><tspan class="dim">PR Merge Rate </tspan><tspan class="dots">········································</tspan></text>
-        <text class="line num" x="483.6" y="75" text-anchor="end">92.5%</text>
+        <text class="line num" x="483.6" y="75" text-anchor="end">92.7%</text>
         <svg class="icon" viewBox="0 0 16 16" width="13" height="13" x="0" y="84.95"><path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/></svg>
         <text class="line" x="23.4" y="96"><tspan class="dim">PRs Reviewed </tspan><tspan class="dots">···········································</tspan></text>
-        <text class="line num" x="483.6" y="96" text-anchor="end">832</text>
+        <text class="line num" x="483.6" y="96" text-anchor="end">836</text>
         <svg class="icon" viewBox="0 0 16 16" width="13" height="13" x="0" y="105.95"><path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/></svg>
         <text class="line" x="23.4" y="117"><tspan class="dim">Total Issues </tspan><tspan class="dots">···········································</tspan></text>
         <text class="line num" x="483.6" y="117" text-anchor="end">314</text>
@@ -63,9 +63,9 @@
         <text class="line num" x="483.6" y="138" text-anchor="end">88</text>
       </g>
       <g class="spark" transform="translate(0, 165)">
-        <path class="spark-line" d="M0.0 33.9 L7.8 34.0 L15.6 33.9 L23.4 34.0 L31.2 34.0 L39.0 34.0 L46.8 34.0 L54.6 34.0 L62.4 34.0 L70.2 33.9 L78.0 33.9 L85.8 34.0 L93.6 34.0 L101.4 34.0 L109.2 34.0 L117.0 33.9 L124.8 34.0 L132.6 34.0 L140.4 34.0 L148.2 34.0 L156.0 34.0 L163.8 34.0 L171.6 34.0 L179.4 34.0 L187.2 34.0 L195.0 34.0 L202.8 34.0 L210.6 34.0 L218.4 34.0 L226.2 33.9 L234.0 34.0 L241.8 34.0 L249.6 34.0 L257.4 34.0 L265.2 34.0 L273.0 34.0 L280.8 33.8 L288.6 34.0 L296.4 32.6 L304.2 33.7 L312.0 31.6 L319.8 32.3 L327.6 31.7 L335.4 31.1 L343.2 32.7 L351.0 32.7 L358.8 32.5 L366.6 32.2 L374.4 31.4 L382.2 32.0 L390.0 30.7 L397.8 31.9 L405.6 31.4 L413.4 31.5 L421.2 32.0 L429.0 31.4 L436.8 31.5 L444.6 30.2 L452.4 2.7 L460.2 19.1 L468.0 17.7 L475.8 0.0 L483.6 33.7"/>
+        <path class="spark-line" d="M0.0 33.9 L7.8 34.0 L15.6 33.9 L23.4 34.0 L31.2 34.0 L39.0 34.0 L46.8 34.0 L54.6 34.0 L62.4 34.0 L70.2 33.9 L78.0 33.9 L85.8 34.0 L93.6 34.0 L101.4 34.0 L109.2 34.0 L117.0 33.9 L124.8 34.0 L132.6 34.0 L140.4 34.0 L148.2 34.0 L156.0 34.0 L163.8 34.0 L171.6 34.0 L179.4 34.0 L187.2 34.0 L195.0 34.0 L202.8 34.0 L210.6 34.0 L218.4 34.0 L226.2 33.9 L234.0 34.0 L241.8 34.0 L249.6 34.0 L257.4 34.0 L265.2 34.0 L273.0 34.0 L280.8 33.8 L288.6 34.0 L296.4 32.6 L304.2 33.7 L312.0 31.6 L319.8 32.3 L327.6 31.7 L335.4 31.1 L343.2 32.7 L351.0 32.7 L358.8 32.5 L366.6 32.2 L374.4 31.4 L382.2 32.0 L390.0 30.7 L397.8 31.9 L405.6 31.4 L413.4 31.5 L421.2 32.0 L429.0 31.4 L436.8 31.5 L444.6 30.2 L452.4 2.7 L460.2 19.1 L468.0 17.7 L475.8 0.0 L483.6 32.2"/>
         <text class="tick" x="0" y="50">2021</text>
-        <text class="tick" x="241.8" y="50" text-anchor="middle">5432 contributions</text>
+        <text class="tick" x="241.8" y="50" text-anchor="middle">5489 contributions</text>
         <text class="tick" x="483.6" y="50" text-anchor="end">2026</text>
       </g>
   </g>
