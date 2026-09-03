@@ -15,7 +15,7 @@
        nobody. Delete this comment if you would rather not be counted; the card is
        identical without it, and I will only be a little sad about it :( -->
   <title id="titleId">akhayam99&#39;s languages</title>
-  <desc id="descId">TypeScript: 78.6%, JSON: 12.5%, Rust: 4.1%, Markdown: 2.7%, YAML: 1.2%, Other: 0.8%. calculated analyzing all 1906 pull requests</desc>
+  <desc id="descId">TypeScript: 78.6%, JSON: 12.5%, Rust: 4.1%, Markdown: 2.7%, YAML: 1.2%, Other: 0.8%. calculated analyzing all 1911 pull requests</desc>
   <style>
     :root {
       --bg: #0d1117;
@@ -74,6 +74,6 @@
         <text class="share" x="199.5" y="11" text-anchor="end">0.8%</text>
       </g>
     </g>
-    <text class="note" x="0" y="79">calculated analyzing all 1906 pull requests</text>
+    <text class="note" x="0" y="79">calculated analyzing all 1911 pull requests</text>
   </g>
 </svg>
